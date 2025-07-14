@@ -102,12 +102,12 @@ notes-bookmark-manager/
 
 ## 🧠 Skills Demonstrated
 
--REST API Design
--Express Routing & CRUD
--MongoDB + Mongoose Schema Modeling
--React (Next.js App Router)
--Tailwind CSS
--Clean code and structure
+- REST API Design
+- Express Routing & CRUD
+- MongoDB + Mongoose Schema Modeling
+- React (Next.js App Router)
+- Tailwind CSS
+- Clean code and structure
 
 
 
