@@ -24,20 +24,20 @@ No authentication or login required.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/notes-bookmark-manager.git
-cd notes-bookmark-manager
+- git clone https://github.com/your-username/notes-bookmark-manager.git
+- cd notes-bookmark-manager
 
 ### 2. Backend Setup
 
-cd backend
-npm install
+- cd backend
+- npm install
 
 Create a .env file in the backend folder:
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/notes-bookmark-db
+- PORT=5000
+- MONGO_URI=mongodb://localhost:27017/notes-bookmark-db
 
 Start the server:
-npm run dev
+- npm run dev
 
 Server will run on http://localhost:5000
 
