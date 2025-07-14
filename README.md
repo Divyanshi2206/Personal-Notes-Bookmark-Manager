@@ -87,18 +87,7 @@ Bookmark Payload:
 }
 
 ## 🗃️ Folder Structure
-notes-bookmark-manager/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── app/
-│   │   ├── notes/
-│   │   ├── bookmarks/
-│   │   └── page.jsx (optional landing)
-│   └── tailwind.config.js
+<pre><code>## 📁 Project Structure ``` notes-bookmark-manager/ ├── backend/ │ ├── controllers/ │ ├── models/ │ ├── routes/ │ └── server.js ├── frontend/ │ ├── app/ │ │ ├── bookmarks/ │ │ ├── notes/ │ │ └── page.jsx ← (optional landing page) │ └── tailwind.config.js ``` </code></pre>
 
 ## 🧠 Skills Demonstrated
 
