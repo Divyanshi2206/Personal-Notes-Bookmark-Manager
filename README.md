@@ -43,11 +43,11 @@ Server will run on http://localhost:5000
 
 ### 3. Frontend Setup
 
-cd frontend
-npm install
+- cd frontend
+- npm install
 
 Start the frontend app:
-npm run dev
+- npm run dev
 
 App will run on http://localhost:3000
 
