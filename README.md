@@ -24,7 +24,7 @@ No authentication or login required.
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/your-username/notes-bookmark-manager.git
+- git clone https://github.com/Divyanshi2206/Personal-Notes-Bookmark-Manager.git
 - cd notes-bookmark-manager
 
 ### 2. Backend Setup
